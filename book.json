@@ -25,9 +25,11 @@
     "donate",
     "sharing-plus",
     "anchor-navigation-ex",
-    "favicon"
+    "favicon",
+    "chapter-fold"
   ],
   "pluginsConfig": {
+    "expandable-chapters": {},
     "github": {
       "url": "https://github.com/huahuahuahuahuahua"
     },
